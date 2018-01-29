@@ -1,0 +1,4 @@
+1.True
+2. variable cannot be private.
+3. yes
+8. yes
